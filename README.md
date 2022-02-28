@@ -8,7 +8,7 @@
 <br />
 
 
-<a title="twitter" href="https://twitter.com/_manishgs" target="_blank">
+<a title="twitter" href="https://twitter.com/manishgs_" target="_blank">
 <img height="35"src="https://images.squarespace-cdn.com/content/v1/5e844dc8e589b71ffc07eed5/1587984946291-B3IMGKGDFNRCTRXOK3TX/Twitter+50x50px+for+Gmail+signature.png?format=100w">
 </a> 
 <a title="linkedin" href="https://www.linkedin.com/in/manishgs" target="_blank">
