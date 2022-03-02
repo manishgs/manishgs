@@ -4,8 +4,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
+
+Mainly javascript developer, I love learning new technologies. I have worked on various web applications using different tech stack such as Nodejs, Laravel, Golang, Wordpress, Reactjs and React native. 
+
+Currently I am learning blockchain technology, solidity and web3.js
+
 <br />
-<br />
+
 
 
 <a title="twitter" href="https://twitter.com/manishgs_" target="_blank">
@@ -24,7 +29,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=manishgs)
 
 <br />
-<br />
+
 
 ## ⚡ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:
 
@@ -40,7 +45,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 <br />
-<br />
+
 
 ## 🔥 Stats:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=manishgs&show_icons=true&theme=gotham" alt="manishgs" />
