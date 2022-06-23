@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://manishgopalsingh.com.np/" target="_blank">
 𝗠𝗮𝗻𝗶𝘀𝗵 𝗚𝗼𝗽𝗮𝗹 𝗦𝗶𝗻𝗴𝗵
 </a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px">
 </h1>
 
 
