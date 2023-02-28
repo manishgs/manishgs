@@ -49,4 +49,13 @@ Currently, I am expanding my knowledge by delving into blockchain technology, sp
 
 ## 🔥 Stats:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=manishgs&show_icons=true&theme=gotham" alt="manishgs" />
+  
+  
+  
+## Recent Blogs
+- [REST API Development: Best Practices and Guidelines](https://medium.com/@manishgs/rest-api-development-best-practices-and-guidelines-9798091c8370)
+- [What does it take to become a better software engineer?](https://medium.com/@manishgs/what-does-it-take-to-become-a-better-software-engineer-61299a3bd48)
+- [Image optimization for web](https://dev.to/manishgs/image-optimization-for-web-1106)
+- [Find closest RGB component from a color  ](https://dev.to/manishgs/find-closest-rgb-component-from-a-given-color-5hg1)
 
+  
