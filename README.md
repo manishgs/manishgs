@@ -5,9 +5,9 @@
 </h1>
 
 
-Mainly javascript developer, I love learning new technologies. I have worked on various web applications using different tech stack such as Nodejs, Laravel, Golang, Wordpress, Reactjs and React native. 
+I am primarily a JavaScript developer with a passion for exploring new technologies. Throughout my career, I have gained experience working on a variety of web applications using different tech stacks, including Node.js, Laravel, Golang, Wordpress, React.js, and React Native.
 
-Currently I am learning blockchain technology, solidity and web3.js
+Currently, I am expanding my knowledge by delving into blockchain technology, specifically learning about Solidity and Web3.js.
 
 <br />
 
