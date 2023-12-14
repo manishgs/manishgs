@@ -46,10 +46,6 @@ Currently, I am expanding my knowledge by delving into blockchain technology, sp
 
 <br />
 
-
-## 🔥 Stats:
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=manishgs&show_icons=true&theme=gotham" alt="manishgs" />
-  
   
   
 ## Recent Blogs
