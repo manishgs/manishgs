@@ -5,9 +5,9 @@
 </h1>
 
 
-I am primarily a JavaScript developer with a passion for exploring new technologies. Throughout my career, I have gained experience working on a variety of web applications using different tech stacks, including Node.js, Laravel, Golang, Wordpress, React.js, and React Native.
+I am a proficient JavaScript developer with a fervent enthusiasm for embracing emerging technologies. Over the course of my professional journey, I have cultivated substantial expertise in crafting diverse web applications across various technology stacks, such as Node.js, Laravel, Golang, WordPress, React.js, and React Native.
 
-Currently, I am expanding my knowledge by delving into blockchain technology, specifically learning about Solidity and Web3.js.
+Currently, I am proactively broadening my skill set through in-depth exploration of serverless architecture, cloud security, and AWS services.
 
 <br />
 
